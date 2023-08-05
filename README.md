@@ -12,6 +12,6 @@
 
 🤝 Open to collaborations and contributions. If you find any of my projects interesting or want to work together on something cool, feel free to reach out!
 
-📫 You can connect with me via email at [your.email@example.com] or find me on [LinkedIn] for professional discussions.
+📫 You can connect with me via email at [hrithik.github@gmail.com] or find me on [https://www.linkedin.com/in/hrithikjoshi987] for professional discussions.
 
 Happy coding! 😄🚀
