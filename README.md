@@ -1,8 +1,6 @@
 👋 Hello, fellow developers! Welcome to my GitHub profile! 👨‍💻
 
-📱 Android Developer | 🐍 Python Enthusiast | 🚀 Tech Explorer
-
-🔭 I'm passionate about building amazing Android apps that deliver a seamless user experience. From crafting beautiful UIs to implementing robust backend functionality, I love to dive deep into the world of Android development.
+🐍 Python Enthusiast | 🚀 Tech Explorer
 
 🐍 Python is my go-to language for all things scripting and automation. Whether it's web scraping, data analysis, or building cool utilities, Python has been my trusty companion in solving diverse problems.
 
